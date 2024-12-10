@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Referências
+
+Ruby on Rails Tutorial (https://www.devmedia.com.br/ruby-on-rails-tutorial/31285)
