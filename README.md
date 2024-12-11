@@ -1,5 +1,4 @@
-# hello
-## Desenvolvimento do primeiro projeto feito em Ruby on Rails
+# hello - Desenvolvimento do primeiro projeto feito em Ruby on Rails
 
 ## Descrição
 
@@ -19,6 +18,7 @@ Esse projeto de estudo consiste na criação de projeto simples, utilizando Ruby
 4. rails server
 
 Após essas etapas, para acessar a mensagem no browser acesse o seguinte url: http://localhost:3000/saudacao/hello
+
 E assim, sua mensagem "Olá Mundo!!!!" estará aparecendo.
 
 ## Referências
